@@ -25,7 +25,7 @@ const Hero = () => (
     />
 
     {/* Overlay for better text visibility */}
-    <div className="absolute inset-0 bg-black/70 z-0" />
+    <div className="absolute inset-0 bg-black/30 z-0" />
 
 
     <motion.div
