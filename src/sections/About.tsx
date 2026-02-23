@@ -28,7 +28,7 @@ const About = () => (
         {/* Right: Illustration */}
         <div className="flex items-center justify-center h-full">
           <img
-            src="/data/About%20the%20Forum%20(1).gif"
+            src="/data/About the Forum (1).gif"
             alt="Forum Illustration"
             className="w-full max-w-xs md:max-w-md lg:max-w-lg h-auto object-contain drop-shadow-xl"
             style={{minHeight: '180px'}}
