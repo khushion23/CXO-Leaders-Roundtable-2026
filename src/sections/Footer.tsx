@@ -6,7 +6,7 @@ const Footer = () => (
     {/* Video background */}
     <video
       className="absolute inset-0 w-full h-full object-cover z-0"
-      src="/data/Untitled (1792 x 1024 px) (1).mp4"
+      src="/data/untitled-1792x1024-1.mp4"
       autoPlay
       loop
       muted

@@ -15,7 +15,7 @@ function Queries() {
         {/* Right: GIF/Illustration */}
         <div className="flex-1 flex items-center justify-center">
           <img
-            src="/data/Untitled design (4).gif"
+            src="/data/untitled-design-4.gif"
             alt="Contact Illustration"
             className="w-full h-48 md:h-56 object-contain object-right rounded-2xl"
             draggable="false"

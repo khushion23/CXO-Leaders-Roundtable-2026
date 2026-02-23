@@ -92,7 +92,7 @@ function RSVP() {
           {/* RIGHT SIDE - VIDEO */}
           <div className="flex-1 flex items-center justify-center bg-[#11131a] p-3">
             <video
-              src="/data/7592140-hd_1920_1080_25fps%20(1)%20-%20CROP%20-%20Videobolt.net%20(1).mp4"
+              src="/data/7592140-hd-1920x1080-crop.mp4"
               autoPlay
               loop
               muted
