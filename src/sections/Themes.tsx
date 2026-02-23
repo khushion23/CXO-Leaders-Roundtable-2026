@@ -5,27 +5,27 @@ import GradientHeading from "@/components/GradientHeading";
 
 const themes = [
   {
-    img: "/themePage/Governance & Security.png",
+    img: "/themePage/governance-security.png",
     title: "Governance & Security",
     desc: "Ensuring enterprise-grade security, compliance, and scalability in converged technology environments."
   },
   {
-    img: "/themePage/CXO Insights & Best Practices.png",
+    img: "/themePage/cxo-insights-best-practices.png",
     title: "CXO Insights & Best Practices",
     desc: "Peer-driven knowledge exchange on real-world enterprise technology implementation challenges."
   },
   {
-    img: "/themePage/Future-Ready Enterprise.png",
+    img: "/themePage/future-ready-enterprise.png",
     title: "Future-Ready Enterprise",
     desc: "Strategic planning and technology roadmaps for enterprise resilience and competitive advantage."
   },
   {
-    img: "/themePage/Hybrid Collaboration.png",
+    img: "/themePage/hybrid-collaboration.png",
     title: "Hybrid Collaboration",
     desc: "Building next-generation hybrid workplace infrastructure for seamless global collaboration."
   },
   {
-    img: "/themePage/Strategic AV–IT Convergence.png",
+    img: "/themePage/strategic-avit-convergence.png",
     title: "Strategic AV–IT Convergence",
     desc: "Unifying audiovisual and IT infrastructure as a core enterprise enabler for digital transformation."
   },
