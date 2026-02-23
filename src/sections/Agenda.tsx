@@ -24,7 +24,7 @@ const Agenda = () => {
     <SectionWrapper id="agenda" className="overflow-hidden relative">
       {/* Blurry GIF background - full section */}
       <div className="pointer-events-none absolute inset-0 w-full h-full z-0">
-        <img src="/Untitled design (4).gif" alt="Agenda Background" className="w-full h-full object-cover" style={{filter:'blur(10px) brightness(0.7)'}} />
+        <img src="/data/Untitled design (4).gif" alt="Agenda Background" className="w-full h-full object-cover" style={{filter:'blur(10px) brightness(0.7)'}} />
         <div className="absolute inset-0 w-full h-full bg-[#181929]/60 backdrop-blur-md" />
       </div>
       <div className="relative z-10">
